@@ -11,6 +11,7 @@ O projeto deverá ser publicado em um repositório público no github.
   * Obter as notícias sobre as categorias 'technology' e 'science'.
   * Ao clicar na notícia deve exibir um modal contendo título, url e uma breve descrição da notícia.
   * Para a criação do visual, podem ser usados frameworks modernos como o material e o bootstrap.
+  * A criação visual da aplicação é livre. Sugestão: Pode se usar 2 abas, uma para cada categoria, e ao clicar em uma das notícias navegar ou abrir em uma nova janela).
   * Deve conter um README contendo instruções para executar o projeto e uma breve descrição das escolhas feitas dentro do projeto.
   * Será levado em consideração a clareza do código e boas práticas.
 
