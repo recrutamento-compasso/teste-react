@@ -1,5 +1,7 @@
 # Avaliação React Compasso
 
+## NÃO FAÇA FORK DESSE REPOSITÓRIO
+
 A aplicação será um portal utilizando React para a exibição de notícias e o Node.JS para o consumo das notícias de dois temas que estão dentro da api do THE NEW YORK TIMES.
 
 O projeto deverá ser publicado em um repositório público no github.
@@ -21,3 +23,4 @@ O projeto deverá ser publicado em um repositório público no github.
 * **Informações Adicionais**:
   * Api do The New York Times: https://developer.nytimes.com
   * A api usada será a de Top Stories: https://developer.nytimes.com/docs/top-stories-product/1/overview
+  * Documentação para registro da API key: https://developer.nytimes.com/get-started
